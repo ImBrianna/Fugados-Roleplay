@@ -1,0 +1,36 @@
+[2020/2/1 - 9:34:31] Lorena Radwin le dió dinero a Lorena Radwin ($500000)
+[2020/2/1 - 11:30:14] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Italiana)
+[2020/2/1 - 12:56:55] Lorena Radwin expulso de su facción a Lorena Radwin 
+[2020/2/1 - 12:57:8] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Sheriff)
+[2020/2/9 - 23:4:6] Lorena Radwin le dió dinero a Lorena Radwin ($1244)
+[2020/2/9 - 23:4:16] Lorena Radwin le quitó dinero a Lorena Radwin ($222)
+[2020/2/10 - 15:12:19] Lorena Radwin le dió dinero a Lorena Radwin ($500000)
+[2020/2/16 - 15:23:48] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/16 - 15:24:52] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/16 - 15:24:56] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/16 - 15:46:53] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/16 - 15:46:57] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/16 - 15:47:14] Lorena Radwin asesino a Lorena Radwin 
+[2020/2/25 - 11:40:10] Lorena Radwin le cambio el virtual world a Lorena Radwin 
+[2020/2/25 - 11:46:18] Lorena Radwin expulso de su facción a Lorena Radwin 
+[2020/2/25 - 11:46:23] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Policia)
+[2020/3/3 - 8:48:46] Lorena Radwin expulso de su familia a Lorena Radwin 
+[2020/3/3 - 8:49:46] Lorena Radwin le dio lider de familia a Lorena Radwin (Familia Groove Street)
+[2020/3/3 - 12:14:12] Lorena Radwin expulso de su familia a Lorena Radwin 
+[2020/3/3 - 12:14:16] Lorena Radwin le dio miembro de facción a Lorena Radwin (Facción Mecánicos)
+[2020/3/21 - 20:12:27] Lorena Radwin curo a Lorena Radwin 
+[2020/3/21 - 20:21:40] Lorena Radwin expulso de su facción a Lorena Radwin 
+[2020/3/21 - 20:21:48] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Policia)
+[2020/3/26 - 14:49:38] Lorena Radwin curo a Lorena Radwin 
+[2020/3/27 - 16:48:39] TEK RADADA cambio el skin de TEK RADADA 
+[2020/3/27 - 16:56:48] TEK RADADA le cambio el virtual world a TEK RADADA 
+[2020/3/27 - 16:56:59] TEK RADADA le cambio el virtual world a TEK RADADA 
+[2020/3/27 - 16:57:8] TEK RADADA le cambio el virtual world a TEK RADADA 
+[2020/3/27 - 16:57:28] TEK RADADA le dio lider de facción a TEK RADADA (Facción Policia)
+[2020/3/27 - 17:15:6] Lorena Radwin curo a Lorena Radwin 
+[2020/3/27 - 17:15:9] Lorena Radwin curo a TEK RADADA 
+[2020/4/7 - 14:22:16] Lorena Radwin le dió dinero a Lorena Radwin ($400000)
+[2020/4/7 - 16:42:55] Lorena Radwin expulso de su facción a Lorena Radwin 
+[2020/4/7 - 16:43:1] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Mecánicos)
+[2020/4/29 - 15:42:25] Lorena Radwin expulso de su facción a Lorena Radwin 
+[2020/4/29 - 15:42:32] Lorena Radwin le dio lider de facción a Lorena Radwin (Facción Policia)
