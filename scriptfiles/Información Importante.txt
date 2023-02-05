@@ -1,0 +1,29 @@
+CARPETAS Y SU CONTENIDO:
+
+- Actores: Actores creados In Game, máximo de actores: 100.
+CMD In Game: /adminactor. 
+
+- Facciones: Facciones del servidor. (Crear facciones antes de usar /darlider - /darmiembro). Máx: 18/20.
+CMD In Game: /adminfac.
+
+- Garages: Sistema de garages del servidor. Máximo fijado: 100.
+CMD In Game: /admingarage.
+
+- Negocios: Sistema de negocios, máximo de negocios: 50.
+CMD In Game: /adminnegocio.
+
+- Portones: Creación de portones (/apgarage) In Game, máximo fijado 100.
+CMD In Game: /adminporton.
+
+- Graffitis: Graffitis creados por los pandilleros.
+
+- Logs: Contenido de todos los Logs del servidor.
+
+- mSelection.
+
+Skin, para la elección de skin al usuario.
+MueblesObj, sistema de muebles.
+Bars, barreras para policías.
+
+- El resto de carpetas es importante no eliminar, antes de usar estos sistemas crearlos antes In GAME. 
+De no ser así el servidor crasheará. Revisar GM principal para conocer comandos y máximos.
